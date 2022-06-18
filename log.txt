@@ -1,0 +1,1 @@
+erorr1: output[.,.,.,val_acc] returns high acc in early epoches
